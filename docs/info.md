@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-IT IS A SEVEN SEGMENTS DECODER 
+IT_IS_A_SEVEN_SEGMENTS_DECODER 
 
 
 ## How to test
